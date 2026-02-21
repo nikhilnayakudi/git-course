@@ -1,2 +1,0 @@
-Username=Nikhil;
-Passward=NNikhil;
